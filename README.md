@@ -22,9 +22,9 @@
 
 ### 🇧🇷 Sobre Mim
 
-- 📊 Contribuidor semanal do desafio #TidyTuesday. Confira meu portfólio interativo.
-- 🌱 Especializando-me em Ciência de Dados e modelagem preditiva utilizando Python.
-- 🧩 Sólida experiência em Data Analytics e Business Intelligence aplicados a estratégias de Recursos Humanos.
+- 📊 Contribuo semanalmente ao desafio [#TidyTuesday](https://github.com/rfordatascience/tidytuesday). Confira meu [portfólio](https://moreiragendson.shinyapps.io/tidytuesday/).
+- 🌱 Especializando-me em ciência de Dados e modelagem preditiva utilizando Python.
+- 🧩 Especialista em data analytics e business intelligence.
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@
 
  - 📊 Weekly contributor to the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge. Check my [live portfolio](https://moreiragendson.shinyapps.io/tidytuesday/).
  - 🌱 Mastering data science and predictive modeling with Pyhton.
- - 🧩 Deep expertise working with data analytics and business intelligence for people strategies. 
+ - 🧩 Deep expertise working with data analytics and business intelligence. 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/moreiragendson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a> <a href="mailto:gendsonmoreira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/moreiragendson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 <a href="https://moreiragendson.quarto.pub/blog/"><img src="https://img.shields.io/badge/Blog-121011?style=for-the-badge&logo=ghost&logoColor=white"/></a>
 
 </p>
