@@ -23,7 +23,7 @@
 ### 🇧🇷 Sobre Mim
 
 - 📊 Contribuo semanalmente ao desafio [#TidyTuesday](https://github.com/rfordatascience/tidytuesday). Confira meu [portfólio](https://moreiragendson.shinyapps.io/tidytuesday/).
-- 🌱 Especializando-me em ciência de Dados e modelagem preditiva utilizando Python.
+- 🌱 Especializando-me em ciência de dados e modelagem preditiva utilizando Python.
 - 🧩 Especialista em data analytics e business intelligence.
 
 ------------------------------------------------------------------------
